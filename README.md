@@ -1,5 +1,5 @@
 # Gauko - Ecommerce Website for Pickles & Local Foods
-
+![Site Preview](previewsite.png)
 Welcome to **Gauko**, an elegant and responsive eCommerce website designed to sell pickles, honey, ghee, and authentic Nepali dried vegetables. Built using **HTML** and **CSS**, this project showcases a beautifully crafted landing page with animations and a vibrant color scheme that reflects the brand identity.
 
 ## 🛠️ Technologies Used
